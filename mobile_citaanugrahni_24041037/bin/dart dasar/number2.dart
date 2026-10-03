@@ -1,6 +1,6 @@
 void main(){
   num a = 10;
-  num b = 10.3;
+  num b = 10.4;
   print(a);
   print(b);
   print(b);

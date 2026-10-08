@@ -4,9 +4,9 @@ void main (){
   var name = 'cita anugrahni';
   int age = 20;
 
-  /* cita adalah mahasiswi STMIK INDONESIA BANJARMASIN 
+  /*cita adalah mahasiswi STMIK INDONESIA BANJARMASIN 
   yang sangat pemalu dan penakut, jadi tolong jika 
-  ingin berteman perlahan lahan saja dalam hal mengajak ngobrol */
+  ingin berteman perlahan lahan saja dalam hal mengajak ngobrol*/
 
   print (name);
   print (age);

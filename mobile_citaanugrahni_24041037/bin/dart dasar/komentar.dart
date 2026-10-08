@@ -6,7 +6,7 @@ void main (){
 
   /* cita adalah mahasiswi STMIK INDONESIA BANJARMASIN 
   yang sangat pemalu dan penakut, jadi tolong jika 
-  ingin berteman perlahan lahan saja dalam mengajak ngobrol */
+  ingin berteman perlahan lahan saja dalam hal mengajak ngobrol */
 
   print (name);
   print (age);

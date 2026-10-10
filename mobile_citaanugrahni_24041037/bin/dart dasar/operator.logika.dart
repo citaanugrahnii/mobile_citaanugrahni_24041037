@@ -6,4 +6,5 @@ void main() {
   print(belajar && mengerjakanTugas);
   print(belajar || mengerjakanTugas);
   print(!belajar);
+  print(mengerjakanTugas);
 }

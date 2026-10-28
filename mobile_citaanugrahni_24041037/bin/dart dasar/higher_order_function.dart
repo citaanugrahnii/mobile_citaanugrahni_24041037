@@ -3,7 +3,7 @@ void sayhallo(String nama, String Function(String) filter) {
   print('Halo $namaFiltered');
 }
 String filterBadWord(String nama) {
-  if (nama == 'cantik') {
+  if (nama == 'hitam') {
     return '*****';
   }else{
     return nama;
